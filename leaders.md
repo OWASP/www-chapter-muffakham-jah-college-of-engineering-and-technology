@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Mohammed Rayan Baig](mailto:mohammed.rayanbaig@owaso.org)
+* [ Mohammed Arifuddin Sohel](mailto:mohammed.arifuddinsohel@owasp.org)
