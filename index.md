@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Muffakham Jah College of Engineering and Technology
-tags: example-tag
+title: OWASP Muffakham Jah College of Engineering and Technology - Student Chapter
+tags: 
 region: Asia
 meetup-group:
 
@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Muffakham Jah College of Engineering and Technology - Student Chapter! We're a group of talented and innovative college students on a mission to promote cyber awareness in our communities and develop cyber security skills among M.J.C.E.T. students.The main goal of this chapter is to bring forward interested students and provide them with a community in which they can learn and contribute to the field of concern.We arrange conferences, webinars, CTFs, and meetups. Anyone with an interest is welcome to attend any or all of these events. We actively spread knowledge and raise awareness about cyber security.Join our devoted team to improve cyberspace!
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
